@@ -1,0 +1,25 @@
+{
+  "name": "choline",
+  "version": "0.1.0",
+  "description": "A database engine for entities and links with friendly interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sartrey/choline.git"
+  },
+  "keywords": [
+    "graph",
+    "entity",
+    "link",
+    "knowledge"
+  ],
+  "author": "Sartrey Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sartrey/choline/issues"
+  },
+  "homepage": "https://github.com/sartrey/choline#readme"
+}
